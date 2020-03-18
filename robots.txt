@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmaizined.wangxfei.com/sitemap.xml
